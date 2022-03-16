@@ -12,6 +12,7 @@ Drone plugin to publish files and artifacts to Google Cloud Storage. For the usa
 
 ## Build
 
+
 Build the binary with the following command:
 
 ```console
